@@ -49,6 +49,7 @@ Project files are available from the Pluralsight course's "Exercise Files" area.
 # Running the Sample App
 
     npm i
+    npm start
 
 # Webpack
 
