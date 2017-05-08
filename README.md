@@ -56,7 +56,7 @@ https://github.com/scottengle/ps_a2gs
 
 # Project Files
 
-Project files are available from the Pluralsight course's "Exercise Files" area.
+Project files are available from the Pluralsight course's "Exercise Files" area. There is a finalized version of the project files in the `gigabyte` folder.
 
 # Running the Sample App
 
